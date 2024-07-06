@@ -1,0 +1,50 @@
+.parent {
+    background-image: url(https://static.photocdn.pt/images/articles/2022/01/03/Beginners_Guide_to_Nature_Photography.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.first {
+    display: flex;
+    font-size: x-large;
+    margin-left: 40px;
+    padding: 20px;
+}
+
+h1 {
+    margin-left: 500px;
+}
+
+input {
+    border: none;
+    border-bottom: solid;
+    opacity: 0.9;
+    outline: none;
+    background-color: transparent;
+    color: black;
+    height: 40px;
+}
+
+.second {
+    margin-left: 300px;
+}
+
+i {
+    font-size: x-large;
+}
+
+.third {
+    text-align: center;
+    padding: 150px;
+    font-size: x-large;
+}
+
+.fourth {
+    display: flex;
+    border: black solid;
+    width: 200px;
+    border-radius: 5px;
+    margin-left: 500px;
+}
